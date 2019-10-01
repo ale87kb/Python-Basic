@@ -1,0 +1,6 @@
+print('Hola Mundo!')
+print('Cual es tu nombre?')
+minombre = input()
+print('Gusto en conocerte ' + minombre)
+print('Tu nombre tiene: ')
+print(len(minombre))
